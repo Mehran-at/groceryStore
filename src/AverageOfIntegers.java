@@ -1,4 +1,5 @@
 // Getting average of numbers
+
 import java.util.Scanner;
 public class AverageOfIntegers {
     public static void main(String[] args) {
