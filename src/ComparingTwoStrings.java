@@ -1,3 +1,4 @@
+//
 public class ComparingTwoStrings {
     public static void main(String[] args) {
         String str1 = "apples are my favorite fruit.";
