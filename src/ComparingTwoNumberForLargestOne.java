@@ -1,6 +1,6 @@
 //Comparing two numbers to fund the largest one using method
 import java.util.Scanner;
-public class largestNumberEx2 {
+public class ComparingTwoNumberForLargestOne {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int number1 = 1;
