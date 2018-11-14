@@ -1,4 +1,5 @@
 //Comparing two numbers to fund the largest one using method
+
 import java.util.Scanner;
 public class ComparingTwoNumberForLargestOne {
     public static void main(String[] args) {
