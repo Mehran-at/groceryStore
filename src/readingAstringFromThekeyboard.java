@@ -1,4 +1,5 @@
 //Reading a String from the Keyboard
+//
 import  java.util.Scanner;
 public class readingAstringFromThekeyboard {
     public static void main(String[] args) {
