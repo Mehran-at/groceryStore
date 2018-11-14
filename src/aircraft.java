@@ -1,3 +1,4 @@
+//
 class aircraft {
     int passengers; //num of people
     int cruiseSpeed; //mph
