@@ -1,4 +1,3 @@
-//
 public class ReplacingAWordInAStringList {
     public static void main(String[] args) {
         String sentence[] = {"I","LOVE","TO","TRAVEL"};
